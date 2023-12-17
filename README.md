@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @9dingweb ! I’m interested in the Ding Coin.
+- 👋 Hi, I’m @9dingweb ! I’m interested in the DingCoin.
 - 👀 I’m currently learning how to make transacations easier,safer and freer! So DingCoin came into being!
 - 🌱 Welcome you to join us.
 
